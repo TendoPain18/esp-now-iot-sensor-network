@@ -143,6 +143,46 @@ Contributions are welcome! Feel free to add new sensor types, improve the routin
 </div>
 
 ## <!-- CONTACT -->
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2 align="center">
+        🚀
+        CONTACT ME
+        🚀
+      </h2>
+    </summary>
+  </ul>
+</div>
+<table align="center" style="width: 100%; max-width: 600px;">
+<tr>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 33px; width: 120px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://github.com/TendoPain18" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="height: 33px; width: 120px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="mailto:amrgadalla01@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 33px; width: 120px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height: 33px; width: 120px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://wa.me/201019702121" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 33px; width: 120px;"/>
+    </a>
+  </td>
+</tr>
+</table>
 <!-- END CONTACT -->
 
 ## **Connect your sensors to the cloud with reliable multi-hop IoT routing! 🌐✨**
